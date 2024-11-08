@@ -1,0 +1,47 @@
+{
+	"name": "layelotheme",
+	"displayName": "layelotheme",
+	"description": "made by layelossher",
+	"version": "1.0.0",
+	"license": "MIT",
+	"engines": {
+		"vscode": "^1.1.0"
+	},
+	"publisher": "learnwithyan",
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"Theme",
+		"Dark Theme",
+		"PHP",
+		"Winter"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Y9ijn0okm/theme"
+	},
+	"icon": "theme-icon.png",
+	"contributes": {
+		"themes": [
+			{
+				"label": "layetheme-dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/layetheme-dark.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "666c7914-7a5a-47d8-b688-7a4bc423a76e",
+		"publisherId": "f6c6becf-b66a-46ad-93cf-a6ff9f9703e6",
+		"publisherDisplayName": "layelossher",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"isPreReleaseVersion": false,
+		"hasPreReleaseVersion": false,
+		"installedTimestamp": 1731026596802,
+		"pinned": false,
+		"preRelease": false,
+		"source": "gallery"
+	}
+}
